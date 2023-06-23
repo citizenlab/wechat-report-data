@@ -8,7 +8,7 @@
  * Native functions in libMMProtocalJni.so:
  *  * AesEncrypt at address 0x0013d108
  *
- * the calculated function offsets and class definitions are from 8023 / 2160 APK:
+ * the calculated function offsets and class definitions are from 8.0.23 / 2160 APK:
  * https://dldir1.qq.com/weixin/android/weixin8023android2160_arm64_1.apk
  */
 
